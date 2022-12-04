@@ -1,0 +1,38 @@
+{
+  "products": [
+    {
+      "name": "IPHONE 14 PROMAX edit",
+      "price": "70",
+      "img": "https://uscom.vn/wp-content/uploads/2022/09/tim.jpg",
+      "desc": "RAM 12G",
+      "id": 10
+    },
+    {
+      "name": "IPHONE X ",
+      "price": "7000000",
+      "img": "https://cdn.tgdd.vn/Products/Images/42/114115/iphone-x-64gb-hh-600x600.jpg",
+      "desc": "64GB",
+      "id": 11
+    },
+    {
+      "name": "IPHONE 13 PROMAX",
+      "price": "15000000",
+      "img": "https://cdn.tgdd.vn/Products/Images/42/250261/iphone-13-pro-max-xanh-la-thumb-600x600.jpg",
+      "desc": "5GB",
+      "id": 12
+    },
+    {
+      "name": "IPHONE 11 PROMAX",
+      "price": "10000000",
+      "img": "https://cdn.tgdd.vn/Products/Images/42/153856/iphone-11-trang-200x200.jpg",
+      "desc": "5GB",
+      "id": 13
+    }
+  ],
+  "users": [
+    {
+      "email": "toanlasdtq2002@gmail.com",
+      "password": 123456
+    }
+  ]
+}
